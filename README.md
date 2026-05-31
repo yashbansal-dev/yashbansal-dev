@@ -39,35 +39,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashbansal-dev&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashbansal-dev&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 
-## 🚀 Featured Project
-
-### OpenSeek
-
-Healthcare platform that helps users:
-
-- 🏥 Find hospitals and clinics
-- 👨‍⚕️ View doctor availability
-- 📅 Book appointments
-- ⏱️ Track waiting times
-- 🚑 Emergency ambulance support
-
----
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/yashbansal05">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
