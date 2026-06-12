@@ -1,172 +1,123 @@
-# Yash Bansal
+# <p align="center">Yash Bansal</p>
 
-```{=html}
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Yash%20Bansal&fontSize=42&fontColor=ffffff"/>`{=html}
-```{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=7F00FF&text=Yash%20Bansal&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+Developer;DSA+%7C+C%2B%2B+%7C+AI%2FML;Open+to+Internships"/>`{=html}
-```{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+Developer;DSA+Enthusiast;AI+%26+ML+Learner;Open+Source+Explorer"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-blueviolet?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/IIT%20Guwahati-AI%20%26%20ML-purple?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Open%20To-Internships-indigo?style=for-the-badge"/>`{=html}
-```{=html}
+<a href="mailto:yashbansal531@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blueviolet?style=for-the-badge"/></a>
+<a href="https://github.com/yashbansal-dev"><img src="https://img.shields.io/badge/GitHub-yashbansal--dev-black?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/yashbansal05"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge"/></a>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## About Me
+# About Me
 
-2nd-year B.Tech Computer Science student at JK Lakshmipat University
-pursuing a Minor in Artificial Intelligence & Machine Learning from IIT
-Guwahati. Passionate about backend engineering, DSA, AI systems, and
-scalable software.
+- 🎓 B.Tech Computer Science @ JK Lakshmipat University (2024-2028)
+- 🤖 Minor in Artificial Intelligence & Machine Learning (IIT Guwahati)
+- 💻 Interested in Backend Engineering, DSA and AI
+- 🚀 Looking for Software Engineering Internship opportunities
 
-## Tech Stack
+---
 
-### Languages
+# Tech Stack
 
-C • C++ • Python • JavaScript • SQL
+## Languages
 
-### Web
+![C](https://skillicons.dev/icons?i=c,cpp,py,js,mysql)
 
-HTML • CSS • JavaScript
+## Web
 
-### Databases
+![Web](https://skillicons.dev/icons?i=html,css,js,nodejs)
 
-MySQL • MongoDB
+## Databases
 
-### Tools
+![DB](https://skillicons.dev/icons?i=mysql,mongodb)
 
-Git • GitHub • Docker • Linux • VS Code • Google Colab
+## Tools
 
-------------------------------------------------------------------------
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)
 
-## AI / ML Expertise
+---
 
-  Domain             Level          Details
-  ------------------ -------------- -------------------------
-  Machine Learning   Intermediate   Model development
-  Image Detection    Intermediate   AI image classification
-  Backend APIs       Intermediate   Model serving
+# Projects
 
-------------------------------------------------------------------------
-
-## Featured Projects
-
-```{=html}
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}OpenSeek -- AI Image Detection Tool`</b>`{=html}
-```{=html}
-</summary>
-```
--   Detects AI-generated images
--   Backend API
--   Chrome Extension
--   Deep learning inference
+<summary><b>OpenSeek - AI Image Detection Tool</b></summary>
 
-```{=html}
+- Detect AI generated images
+- Backend API
+- Chrome Extension
+- Deep learning inference
+
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}Station Pay`</b>`{=html}
-```{=html}
-</summary>
-```
-Digital payment platform architecture emphasizing scalability and
-security.
+<summary><b>Station Pay</b></summary>
 
-```{=html}
+Digital payment platform architecture focused on scalability and security.
+
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}AES-256 Secure File Encryption System`</b>`{=html}
-```{=html}
-</summary>
-```
-Implemented AES-256 encryption in C using OpenSSL.
+<summary><b>AES-256 Secure File Encryption System</b></summary>
 
-```{=html}
+AES-256 implementation using C and OpenSSL.
+
 </details>
-```
 
-------------------------------------------------------------------------
+---
 
-## Education
+# GitHub Stats
 
--   B.Tech Computer Science (2024--2028), JK Lakshmipat University
--   Minor in AI & ML (2025--2026), IIT Guwahati
-
-------------------------------------------------------------------------
-
-## GitHub Stats
-
-```{=html}
 <p align="center">
-```
-![](https://github-readme-stats.vercel.app/api?username=yashbansal-dev&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashbansal-dev&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbansal-dev&layout=compact&theme=tokyonight)
-
-```{=html}
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yashbansal-dev&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbansal-dev&layout=compact&theme=tokyonight"/>
 </p>
-```
 
-------------------------------------------------------------------------
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=yashbansal-dev&theme=tokyonight"/>
+</p>
 
-## Current Focus
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yashbansal-dev&theme=tokyonight&row=1&column=6"/>
+</p>
 
-``` yaml
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashbansal-dev&theme=tokyo-night"/>
+</p>
+
+---
+
+# Current Focus
+
+```yaml
 Learning:
   - Advanced DSA
-  - System Design
-  - Backend Engineering
+  - Backend Systems
+  - AI/ML
 
 Building:
-  - AI Applications
-  - Full Stack Projects
-
-Exploring:
-  - Open Source
-  - Cloud
+  - Full Stack Applications
+  - AI Projects
 
 OpenTo:
-  - Software Engineering Internships
+  - Software Engineering Internship
 ```
 
-------------------------------------------------------------------------
+---
 
-## Connect
+# Connect
 
--   Email: yashbansal531@gmail.com
--   GitHub: https://github.com/yashbansal-dev
--   LinkedIn: https://linkedin.com/in/yashbansal05
+- Email: yashbansal531@gmail.com
+- GitHub: https://github.com/yashbansal-dev
+- LinkedIn: https://linkedin.com/in/yashbansal05
 
-> "Build systems that solve real problems."
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=7F00FF"/>
+</p>
