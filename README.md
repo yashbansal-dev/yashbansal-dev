@@ -1,4 +1,4 @@
-# <p align="center">Yash Bansal</p>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=7F00FF&text=Yash%20Bansal&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
