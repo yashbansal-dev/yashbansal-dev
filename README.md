@@ -76,20 +76,11 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashbansal-dev&theme=react&hide_border=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Yash's GitHub Stats" height="190" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashbansal-dev&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=58A6FF" alt="Yash's GitHub Streak" height="190" />
+  <img src="https://metrics.lecoq.io/yashbansal-dev?config.theme=tokyonight" alt="Yash's GitHub Metrics" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbansal-dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashbansal-dev&theme=radical&no-frame=true&margin-w=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Yash's Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashbansal-dev&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak" />
 </div>
 
 ---
