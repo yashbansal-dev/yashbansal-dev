@@ -5,7 +5,7 @@
 
 <!-- Visitor Badge & Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&height=50&lines=💻+Building+Scalable+Web+Apps;🧠+Developing+AI-Powered+Solutions;🚀+Exploring+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%92%BB%20Building%20Scalable%20Web%20Apps;%F0%9F%A7%A0%20Developing%20AI-Powered%20Solutions;%F0%9F%9A%80%20Exploring%20System%20Design" alt="Typing SVG" />
   <br/>
   <a href="https://github.com/yashbansal-dev">
     <img src="https://komarev.com/ghpvc/?username=yashbansal-dev&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -72,8 +72,8 @@ I specialize in React/Next.js for the frontend, Node.js/Express for the backend,
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashbansal-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Yash's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbansal-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yashbansal-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Yash's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yashbansal-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 <br/>
 <div align="center">
@@ -114,20 +114,6 @@ I specialize in React/Next.js for the frontend, Node.js/Express for the backend,
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashbansal-dev/yashbansal-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashbansal-dev/yashbansal-dev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yashbansal-dev/yashbansal-dev/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
 
 <!-- Footer Banner -->
 <div align="center">
